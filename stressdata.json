@@ -1,0 +1,7 @@
+{
+    "version" : "1.0",
+     "metric": "cpu",
+     "max_time_minutes":1,
+     "number_cores":6,
+      "os" : "windows"
+   }
